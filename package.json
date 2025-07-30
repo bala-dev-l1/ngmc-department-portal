@@ -13,10 +13,12 @@
   "dependencies": {
     "bcrypt": "^6.0.0",
     "cors": "^2.8.5",
-    "dotenv": "^16.6.0",
+    "dotenv": "^16.6.1",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.16.1"
+    "lucide-react": "^0.534.0",
+    "mongoose": "^8.16.1",
+    "react-router-dom": "^7.7.1"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
